@@ -1,0 +1,21 @@
+.container {
+    width: 640px;
+}
+.row{
+    font-size : 20px;
+}
+.col-sm{
+    margin-bottom : 50px;
+    font-size : 30px;
+}
+
+.d-block{
+    font-size : 30px;
+    margin-bottom : 50px;
+}
+.headname{
+    font-size : 45px;
+}
+.p-2{
+    font-size : 25px;
+}
